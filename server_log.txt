@@ -1,0 +1,182 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:37:18] filterscripts = ""  (string)
+[11:37:18] 
+[11:37:18] Server Plugins
+[11:37:18] --------------
+[11:37:18]  Loaded 0 plugins.
+
+[11:37:18] 
+[11:37:18] Filterscripts
+[11:37:18] ---------------
+[11:37:18]   Loaded 0 filterscripts.
+
+[11:37:18] Loaded 3 vehicles from: vehicles/trains.txt
+[11:37:18] Loaded 3 vehicles from: vehicles/pilots.txt
+[11:37:18] Loaded 15 vehicles from: vehicles/lv_law.txt
+[11:37:18] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[11:37:18] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[11:37:18] Loaded 38 vehicles from: vehicles/sf_law.txt
+[11:37:19] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[11:37:19] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[11:37:19] Loaded 24 vehicles from: vehicles/ls_law.txt
+[11:37:19] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[11:37:19] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[11:37:19] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[11:37:19] Loaded 71 vehicles from: vehicles/whetstone.txt
+[11:37:19] Loaded 168 vehicles from: vehicles/bone.txt
+[11:37:19] Loaded 61 vehicles from: vehicles/flint.txt
+[11:37:19] Loaded 96 vehicles from: vehicles/tierra.txt
+[11:37:19] Loaded 96 vehicles from: vehicles/red_county.txt
+[11:37:19] Total vehicles from files: 1781
+[11:37:19] 
+---------------------------------------
+[11:37:19] Running Grand Larceny - by the SA-MP team
+
+[11:37:19] ---------------------------------------
+
+[11:37:19] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:09:12] language = ""  (string)
+[12:09:12] 
+[12:09:12] Server Plugins
+[12:09:12] --------------
+[12:09:12]  Loaded 0 plugins.
+
+[12:09:12] 
+[12:09:12] Filterscripts
+[12:09:12] ---------------
+[12:09:12]   Loaded 0 filterscripts.
+
+[12:09:12] Loaded 3 vehicles from: vehicles/trains.txt
+[12:09:12] Loaded 3 vehicles from: vehicles/pilots.txt
+[12:09:12] Loaded 15 vehicles from: vehicles/lv_law.txt
+[12:09:12] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[12:09:12] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[12:09:12] Loaded 38 vehicles from: vehicles/sf_law.txt
+[12:09:12] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[12:09:12] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[12:09:12] Loaded 24 vehicles from: vehicles/ls_law.txt
+[12:09:12] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[12:09:12] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[12:09:13] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[12:09:13] Loaded 71 vehicles from: vehicles/whetstone.txt
+[12:09:13] Loaded 168 vehicles from: vehicles/bone.txt
+[12:09:13] Loaded 61 vehicles from: vehicles/flint.txt
+[12:09:13] Loaded 96 vehicles from: vehicles/tierra.txt
+[12:09:13] Loaded 96 vehicles from: vehicles/red_county.txt
+[12:09:13] Total vehicles from files: 1781
+[12:09:13] 
+---------------------------------------
+[12:09:13] Running Grand Larceny - by the SA-MP team
+
+[12:09:13] ---------------------------------------
+
+[12:09:13] Number of vehicle models: 173
+Console input: sampctl p run
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:11:30] language = ""  (string)
+[12:11:30] 
+[12:11:30] Server Plugins
+[12:11:30] --------------
+[12:11:30]  Loaded 0 plugins.
+
+[12:11:30] 
+[12:11:30] Filterscripts
+[12:11:30] ---------------
+[12:11:30]   Loaded 0 filterscripts.
+
+[12:11:30] Loaded 3 vehicles from: vehicles/trains.txt
+[12:11:30] Loaded 3 vehicles from: vehicles/pilots.txt
+[12:11:30] Loaded 15 vehicles from: vehicles/lv_law.txt
+[12:11:30] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[12:11:30] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[12:11:30] Loaded 38 vehicles from: vehicles/sf_law.txt
+[12:11:30] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[12:11:30] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[12:11:30] Loaded 24 vehicles from: vehicles/ls_law.txt
+[12:11:30] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[12:11:30] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[12:11:30] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[12:11:30] Loaded 71 vehicles from: vehicles/whetstone.txt
+[12:11:30] Loaded 168 vehicles from: vehicles/bone.txt
+[12:11:30] Loaded 61 vehicles from: vehicles/flint.txt
+[12:11:30] Loaded 96 vehicles from: vehicles/tierra.txt
+[12:11:30] Loaded 96 vehicles from: vehicles/red_county.txt
+[12:11:30] Total vehicles from files: 1781
+[12:11:30] 
+---------------------------------------
+[12:11:30] Running Grand Larceny - by the SA-MP team
+
+[12:11:30] ---------------------------------------
+
+[12:11:30] Number of vehicle models: 173
+Console input: sampctl
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:13:22] language = ""  (string)
+[12:13:22] 
+[12:13:22] Server Plugins
+[12:13:22] --------------
+[12:13:22]  Loaded 0 plugins.
+
+[12:13:22] 
+[12:13:22] Filterscripts
+[12:13:22] ---------------
+[12:13:22]   Loaded 0 filterscripts.
+
+[12:13:22] Loaded 3 vehicles from: vehicles/trains.txt
+[12:13:22] Loaded 3 vehicles from: vehicles/pilots.txt
+[12:13:22] Loaded 15 vehicles from: vehicles/lv_law.txt
+[12:13:22] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[12:13:22] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[12:13:22] Loaded 38 vehicles from: vehicles/sf_law.txt
+[12:13:22] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[12:13:22] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[12:13:22] Loaded 24 vehicles from: vehicles/ls_law.txt
+[12:13:22] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[12:13:22] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[12:13:22] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[12:13:22] Loaded 71 vehicles from: vehicles/whetstone.txt
+[12:13:22] Loaded 168 vehicles from: vehicles/bone.txt
+[12:13:22] Loaded 61 vehicles from: vehicles/flint.txt
+[12:13:22] Loaded 96 vehicles from: vehicles/tierra.txt
+[12:13:22] Loaded 96 vehicles from: vehicles/red_county.txt
+[12:13:22] Total vehicles from files: 1781
+[12:13:22] 
+---------------------------------------
+[12:13:22] Running Grand Larceny - by the SA-MP team
+
+[12:13:22] ---------------------------------------
+
+[12:13:22] Number of vehicle models: 173
